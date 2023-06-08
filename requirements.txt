@@ -1,0 +1,4 @@
+pyenchant==3.2.2
+pandas==2.0.2
+ai4bharat-transliteration
+indicnlp
